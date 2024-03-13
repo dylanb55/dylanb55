@@ -1,5 +1,5 @@
 Hola!
-Mi nombre es Dylan, actualmente soy estudiante de informática, si te resulta util algun repositorio de los proyectos que tengo no dudes en usarlos haciendo fork, agradeceria si dejaras una estrella :)
+Mi nombre es Dylan, actualmente soy estudiante de ingenieria en informática.
 
 Lenguajes de Programación que domino: C++
 
