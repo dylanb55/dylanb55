@@ -1,5 +1,5 @@
 Hola!
-Mi nombre es Dylan, actualmente soy estudiante de ingenieria en informática. Ayudante auxiliar de Química.
+Mi nombre es Dylan, actualmente soy estudiante de ingenieria en informática.
 
 Lenguajes de Programación y Frameworks:
 
@@ -11,5 +11,8 @@ Lenguajes de Programación y Frameworks:
 Si necesitas ayuda en Cálculo Integral, te recomiendo visitar mi canal de YouTube: https://www.youtube.com/@MatematicasDylan
 
 Necesitas ayuda en programación, echa un vistazo a los cursos gratuitos que tengo en mi canal de YouTube: https://www.youtube.com/@ProgramacionDylan
+
+Cargos actuales (2024-2):
+-Ayudante corrector de Química.
 
 Saludos cordiales.
