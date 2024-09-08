@@ -1,5 +1,5 @@
 Hola!
-Mi nombre es Dylan, actualmente soy estudiante de ingenieria en informática.
+Mi nombre es Dylan, actualmente soy estudiante de ingenieria en informática. Ayudante auxiliar de Química.
 
 Lenguajes de Programación y Frameworks:
 
