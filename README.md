@@ -13,6 +13,7 @@ Si necesitas ayuda en Cálculo Integral, te recomiendo visitar mi canal de YouTu
 Necesitas ayuda en programación, echa un vistazo a los cursos gratuitos que tengo en mi canal de YouTube: https://www.youtube.com/@ProgramacionDylan
 
 Cargos Pasados (2024-2):
+
 -Ayudante corrector de Química. (Finalizado)
 
 Cargos Actuales (2025-1):
