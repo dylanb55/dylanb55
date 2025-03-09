@@ -15,5 +15,10 @@ Necesitas ayuda en programación, echa un vistazo a los cursos gratuitos que ten
 Cargos Pasados (2024-2):
 -Ayudante corrector de Química. (Finalizado)
 
+Cargos Actuales (2025-1):
+- Ayudante Cálculo 3
+- Ayudante Ecuaciones Diferenciales
+- Ayudante Química
+- Ayudante Mesa de Estudio CAEA (Cálculo 1)
 
 Saludos cordiales.
